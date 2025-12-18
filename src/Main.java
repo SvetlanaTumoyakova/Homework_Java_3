@@ -1,7 +1,7 @@
 import java.util.Random;
 
-public class Main {
-    public static void main(String[] args) {
+class Main {
+    static void main() {
         final int ARRAY_SIZE = 10;
         int[] arr = new int[ARRAY_SIZE];
         Random rand = new Random();
